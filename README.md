@@ -91,13 +91,13 @@ Assert.assertEquals(calc.getResult(), "0");
 
 ## 5. Test Execution Report
 
-| Test Case           | Status | Remarks                           |
-| ------------------- | ------ | --------------------------------- |
-| Addition Test       | Passed | Result matched expected value (8) |
-| Clear Function Test | Passed | Display reset to 0 successfully   |
-| Subtraction Test    | Passed | Result matched expected value     |
-| Multiplication Test | Passed | Result matched expected value     |
-| Division Test       | Passed | Result matched expected value     |
+|     Test Case       | Status |       Remarks                               |
+| ------------------- | ------ | ------------------------------------------- |
+| Addition Test       | Passed | Result matched expected value (8)           |
+| Clear Function Test | Passed | Display reset to empty state successfully   |
+| Subtraction Test    | Passed | Result matched expected value               |
+| Multiplication Test | Passed | Result matched expected value               |
+| Division Test       | Passed | Result matched expected value               |
 
  Screenshots of failures are automatically captured in `screenshots/` folder.
 
@@ -109,7 +109,7 @@ Assert.assertEquals(calc.getResult(), "0");
 ## 7. Video Demonstration and Screenshot of Report
 
 * **Demo Video:** [View on Google Drive](https://drive.google.com/file/d/1LF9wcTrBSAxEGYJkD_fzpwXZL2rEQbBJ/view?usp=sharing)
-* Demonstrates execution of automated test cases on emulator or real device.
+* Demonstrates execution of automated test cases on real device.
 
 ## 8. Conclusion
 
