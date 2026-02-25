@@ -1,0 +1,7 @@
+<suite name="Calculator Suite">
+    <test name="Calculator Tests">
+        <classes>
+            <class name="tests.CalculatorTest"/>
+        </classes>
+    </test>
+</suite>
