@@ -117,10 +117,6 @@ Assert.assertEquals(calc.getResult(), "0");
 * Configured Appium environment and executed tests on real Android device.
 * Test scripts are extendable for subtraction, multiplication, division, and other operations.
 
-Absolutely! You can **append a “Git Commands” section** at the end of your README.md so that anyone reading it knows how to clone or pull the repo locally. Here's a clean way to add it:
-
----
-
 ## 9. Git Commands
 
 ### **Clone the Repository (First Time)**
@@ -147,7 +143,3 @@ git commit -m "Your commit message"
 git push origin main
 
 
-
-
---
-Do you want me to do that?
