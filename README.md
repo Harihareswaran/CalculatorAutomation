@@ -138,8 +138,8 @@ Note: Replace `main` with `master` if your repository uses that branch.
 
 If you make changes locally and want to push to GitHub:
 
-git add .
-git commit -m "Your commit message"
-git push origin main
+**git add .
+**git commit -m "Your commit message"
+**git push origin main
 
 
