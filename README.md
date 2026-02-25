@@ -123,8 +123,8 @@ Assert.assertEquals(calc.getResult(), "0");
 
 To get a local copy of the repository:
 
-git clone https://github.com/Harihareswaran/CalculatorAutomation.git
-cd CalculatorAutomation
+* git clone https://github.com/Harihareswaran/CalculatorAutomation.git
+* cd CalculatorAutomation
 
 ### **Pull Latest Changes**
 
